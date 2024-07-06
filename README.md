@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravindu Dilshan</h1>
 <h3 align="center">A passionate Computer Engineering Student.</h3>
 
-- 🔭 I’m currently working on **a Group project with MERN stack**
+- 🔭 I’m currently working on **a Group project using MERN stack**
 
 - 🌱 I’m currently learning **Frameworks and Artificial Intelligence**
 
