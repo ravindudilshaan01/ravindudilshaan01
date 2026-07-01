@@ -2,53 +2,42 @@
 <h3 align="center">Final-year Computer Engineering student · Full-stack & AI/ML builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-stack+dev+with+React+%2B+Node.js+%2B+TypeScript;Building+AI-powered+apps+with+LangChain+%26+RAG;Currently+working+on+a+dementia+monitoring+system;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-stack+dev+%7C+React+%2B+Node.js+%2B+TypeScript;AI%2FML+engineer+%7C+LangChain+%2B+RAG+%2B+PyTorch;Currently+building+a+dementia+monitoring+system;Open+to+SE+%26+AI%2FML+internships" alt="Typing SVG" />
 </p>
 
-- 🔭 Currently building **Digital Guardian** — a dementia pattern-recognition & caregiver dashboard (my Final Year Project)
-- 🌱 Deepening my skills in **RAG pipelines, agentic AI, and cloud-native backends**
-- 💬 Ask me about **React, Node.js, TypeScript, FastAPI, Firebase, or applied ML**
+<p align="center">
+  🟢 <b>Open to Software Engineering & AI/ML internship opportunities</b>
+</p>
+
+- 🔭 Currently building an edge-local dementia pattern recognition system (Final Year Project)
+- 🌱 Deepening my skills in agentic AI, RAG pipelines, and event-driven cloud architecture
+- 💬 Ask me about React, Node.js, TypeScript, FastAPI, LangChain, or applied ML
 - 📫 Reach me at **ravindu.dilshaan01@gmail.com**
-- ⚡ Fun fact: I once cut a 20-minute manual attendance process down to a few seconds with face recognition
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ravindu-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu dilshan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ravindu-dilshan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu dilshan" height="30" width="40" /></a>
 </p>
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nodejs,html,css,firebase,aws,docker,postgres,mongodb,sqlite,git,linux,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nodejs,fastapi,flask,firebase,aws,docker,mongodb,postgres,sqlite,git,linux" />
 </p>
 
-**AI / ML:** LangChain · OpenAI API · Google Gemini API · RAG · PyTorch · TensorFlow · Scikit-learn · FAISS · Hugging Face · spaCy
+**AI / ML:** LangChain · OpenAI API · Google Gemini API · RAG · PyTorch · TensorFlow · Scikit-learn · FAISS · Hugging Face · RASA · spaCy · OpenCV
 
-### 📌 Pinned Highlights
+### 📌 Selected Projects
 
 | Project | Stack | Highlight |
 |---|---|---|
-| **Digital Guardian** *(FYP, ongoing)* | Python, Scikit-learn, FastAPI, React | 90.2% accuracy anomaly detection on 2.67M sensor events |
-| **E-Library Management System** | TypeScript, React, Firebase | Real-time inventory + automated late-fee engine |
-| **Face Recognition Attendance** | Python, OpenCV, Flask | 98.4% F1, GPU-free, anti-spoofing via blink detection |
-| **Document Copilot (RAG)** | LangChain, OpenAI, FAISS, AWS | Agentic assistant with autonomous retry loop, deployed on EC2 |
-| **WarmWhisper** | RASA, Hugging Face, React | Mental health chatbot with safety-critical routing |
+| **Dementia Pattern Recognition** *(FYP, ongoing)* | Python, Scikit-learn, ESP32/FastAPI, React | On-device anomaly detection, adaptive per-patient retraining |
+| **Document Copilot (RAG)** | LangChain, OpenAI, FAISS, AWS | Agentic retrieval assistant deployed on EC2, evaluated with RAGAS |
+| **AI-Driven HR Automation** | n8n, Gemini API, Google Sheets | Zero-touch CV screening pipeline, audit-ready & rate-limit safe |
+| **Face Recognition Attendance** | Python, OpenCV, MediaPipe, Flask | 98.4% F1, GPU-free, liveness detection against photo spoofing |
+| **WarmWhisper** | RASA, Hugging Face, React | Mental health chatbot with deterministic safety-critical routing |
+| **E-Library Management System** | TypeScript, React, Firebase | Real-time inventory system with automated late-fee engine |
 
-### 📊 GitHub Stats
+### 📝 Research
 
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ravindudilshaan01&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindudilshaan01&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindudilshaan01&theme=tokyonight" alt="ravindudilshaan01" />
-</p>
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=ravindudilshaan01&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindudilshaan01&theme=tokyo-night" alt="activity graph" />
-</p>
+AI-Powered System for Early Detection and Monitoring of Major Eye Diseases — *ICSCSE 2026 (Under Review)*
